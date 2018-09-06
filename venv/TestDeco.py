@@ -10,3 +10,4 @@ def foo(x):
     print("Hi, foo has been called with " + str(x))
 
 foo("Hi")
+foo("Ho")
